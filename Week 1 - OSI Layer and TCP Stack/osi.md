@@ -4,7 +4,7 @@
 #### :bulb: Apa Itu OSI?
 Model OSI (Open System Interconnection) diciptakan oleh International Organization for Standardization yang menyediakan kerangka logika terstruktur bagaimana proses komunikasi data berinteraksi melalui jaringan. Dahulu komunikasi data  melibatkan komputer-komputer dari vendor berbeda yang menggunakan protokol dan format yang berbeda juga. Sehingga ISO membuat suatu arsitektur komunikasi yang dikenal sebagai model OSI yang mendefinisikan standar untuk menghubungkan komputer-komputer dari vendor yang berbeda.
 
-![7 OSI Layer](/assets/osi.png)
+![7 OSI Layer](./assets/osi.png)
 
 Secara umum, penjelasan masing-masing layer adalah sebagai berikut:
 
