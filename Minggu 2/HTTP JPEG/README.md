@@ -3,7 +3,7 @@
 1. Buka file sample capture http_with_jpegs.cap menggunakan Wireshark, pastikan filter capture HTTP <br>
 ![Wireshark](./assets/jpeg_cap.png)
 
-2. Cari packet dengan info **200 OK (JPEG JFIF image)**
+2. Cari packet dengan info **200 OK (JPEG JFIF image)** <br>
 ![200 OK](./assets/200_ok.png)
 
 3. Klik packet tersebut, lalu klik kanan pada **JPEG File Interchange Format** yang terletak pada window di kiri bawah. Kemudian pilih menu **Show Packet Bytes..** atau bisa dengan menekan **CTRL + SHIFT + O** <br>
