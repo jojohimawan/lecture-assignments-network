@@ -23,43 +23,43 @@ Ketika PC ingin mengirim ping ke PC di jaringan yang berbeda, mereka akan mengir
 
 Dengan konfigurasi IP yang benar dan tabel rute yang sesuai di router, PC dapat mengirim ping satu sama lain melalui router dan antarmuka jaringan yang sesuai, sehingga memungkinkan komunikasi antar-jaringan.
 
-- **Config Router 0:** 
+- **Config Router 0:**  <br>
 ![Router 0 Interface 0/0](./assets/r0fa0.png) <br>
 ![Router 0 Interface 0/1](./assets/r0fa1.png) <br>
 ![Router 0 RIP](./assets/r0rip.png)<br>
 
-- **Config Router 1:**
+- **Config Router 1:** <br>
 ![Router 1 Interface 0/0](./assets/r1fa0.png) <br>
 ![Router 1 Interface 0/1](./assets/r1fa1.png) <br>
 ![Router 1 RIP](./assets/r1rip.png)<br>
 
-- **Config End Device 0:**
+- **Config End Device 0:** <br>
 ![PC 0 Interface 0/0](./assets/pc0fa0.png) <br>
 ![PC 0 gateway](./assets/pc0gateway.png) <br>
 
-- **Config End Device 2:**
+- **Config End Device 2:** <br>
 ![PC 0 Interface 0/0](./assets/pc2fa0.png) <br>
 ![PC 0 gateway](./assets/pc0gateway.png) <br>
 
-- **Config End Device 1:**
+- **Config End Device 1:** <br>
 ![PC 0 Interface 0/0](./assets/pc1fa0.png) <br>
 ![PC 0 gateway](./assets/pc1gateway.png) <br>
 
-- **Config End Device 3:**
+- **Config End Device 3:** <br>
 ![PC 0 Interface 0/0](./assets/pc3fa0.png) <br>
 ![PC 0 gateway](./assets/pc1gateway.png) <br>
 
 #### :bulb: Hasil Percobaan Ping
 Disini kita mengecek dengan menggunakan perintah ping antar end devices :
 
-**Ping PC0 -> PC2, PC1, PC3:**
+**Ping PC0 -> PC2, PC1, PC3:** <br>
 ![PC0](./assets/pc0ping.png) <br>
 
-**Ping PC2 -> PC0, PC1, PC3:**
-![PC0](./assets/pc2ping.png) <br>
+**Ping PC2 -> PC0, PC1, PC3:** <br>
+![PC2](./assets/pc2ping.png) <br>
 
-**Ping PC1 -> PC0, PC2, PC3:**
-![PC0](./assets/pc1ping.png) <br>
+**Ping PC1 -> PC0, PC2, PC3:** <br>
+![PC1](./assets/pc1ping.png) <br>
 
-**Ping PC3 -> PC0, PC1, PC2:**
-![PC0](./assets/pc3ping.png) <br>
+**Ping PC3 -> PC0, PC1, PC2:** <br>
+![PC3](./assets/pc3ping.png) <br>
