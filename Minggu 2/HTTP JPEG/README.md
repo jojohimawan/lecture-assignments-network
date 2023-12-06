@@ -1,3 +1,9 @@
+**Nama  :** Jordan Frisay Himawan <br>
+**NRP   :** 3122600007 <br>
+**Kelas :** 2 D4 IT A <br>
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra, ST, M.Sc`
+
 # Mengakses Packet Gambar Pada HTTP
 
 1. Buka file sample capture http_with_jpegs.cap menggunakan Wireshark, pastikan filter capture HTTP <br>

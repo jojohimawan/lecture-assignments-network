@@ -1,3 +1,9 @@
+**Nama  :** Jordan Frisay Himawan <br>
+**NRP   :** 3122600007 <br>
+**Kelas :** 2 D4 IT A <br>
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra, ST, M.Sc`
+
 # Configure Mikrotik using Winbox
 ## 1. Set Own Adrress
 ### Address for Router

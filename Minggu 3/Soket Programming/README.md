@@ -1,3 +1,9 @@
+**Nama  :** Jordan Frisay Himawan <br>
+**NRP   :** 3122600007 <br>
+**Kelas :** 2 D4 IT A <br>
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra, ST, M.Sc`
+
 # SOCKET PROGRAMMING
 
 Socket programming adalah cara menghubungkan dua node pada jaringan untuk berkomunikasi satu sama lain. Satu socket (node) me-listen port tertentu pada IP, sementara socket yang lain menjangkau yang lain untuk membentuk koneksi. Server membentuk socket listener sementara klien menjangkau server.

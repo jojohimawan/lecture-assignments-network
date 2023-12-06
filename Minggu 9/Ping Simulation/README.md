@@ -1,3 +1,9 @@
+**Nama  :** Jordan Frisay Himawan <br>
+**NRP   :** 3122600007 <br>
+**Kelas :** 2 D4 IT A <br>
+
+`Tugas ini merupakan tugas mata kuliah Konsep Jaringan yang dibimbing oleh Bpk. Dr. Ferry Astika Saputra, ST, M.Sc`
+
 # PACKET TRACER NETWORK CONFIGURATION
 
 ## 1 Router - 2 Switch - 4 Pc
